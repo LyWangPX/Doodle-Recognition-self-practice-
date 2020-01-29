@@ -1,1 +1,6 @@
 # Doodle-Recognition-self-practice-
+
+SCHOOL WORK IN MAU
+WORKFLOW:
+
+GOOGLE QUICKDRAW DATABASE -> COREML (APPLE) -> SWIFT -> UI -> PENCILKIT -> APP
